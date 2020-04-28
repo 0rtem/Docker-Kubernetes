@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8bee115-2515-4125-b28a-38606cb2277b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b8SpPVFdrOyx3XZBiJL4kprlpR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/docker-compose.yml" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GIT\Docker-Kubernetes\react-app-generation\frontend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="frontend: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="DockerLocal">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="frontend/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.frontend: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8bee115-2515-4125-b28a-38606cb2277b" name="Default Changelist" comment="" />
+      <created>1588012409776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588012409776</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="865" y="229" key="#Docker" timestamp="1588062068454">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="865" y="229" key="#Docker/0.0.1920.1050@0.0.1920.1050" timestamp="1588062068454" />
+    <state x="1301" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588012429807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1301" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1588012429807" />
+    <state x="915" y="293" key="#frontend:_Compose_Deployment" timestamp="1588062104587">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="915" y="293" key="#frontend:_Compose_Deployment/0.0.1920.1050@0.0.1920.1050" timestamp="1588062104587" />
+    <state x="1044" y="450" key="DockerComposeFileDialog" timestamp="1588062098585">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1044" y="450" key="DockerComposeFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588062098585" />
+    <state x="1277" y="334" key="FileChooserDialogImpl" timestamp="1588062097384">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1277" y="334" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588062097384" />
+    <state x="834" y="180" width="998" height="708" key="SettingsEditor" timestamp="1588059522633">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="834" y="180" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1588059522633" />
+    <state x="1217" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1588061322433">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1217" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588061322433" />
+  </component>
+</project>
