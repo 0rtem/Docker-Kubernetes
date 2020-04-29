@@ -19,17 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f8a9376-2ec9-4c32-b728-f220655720be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nginx/default.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worker/Dockerfile.dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-app-generation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app-generation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-app-generation/frontend/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app-generation/frontend/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-app-generation/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app-generation/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../react-app-generation/frontend/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../react-app-generation/frontend/src/logo.svg" afterDir="false" />
+    <list default="true" id="0f8a9376-2ec9-4c32-b728-f220655720be" name="Default Changelist" comment="add new project">
+      <change beforePath="$PROJECT_DIR$/nginx/Dockerfile.dev" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/Dockerfile.dev" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +91,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588157302023</updated>
     </task>
+    <task id="LOCAL-00001" summary="add new project">
+      <created>1588165149755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588165149755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -115,6 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1266" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588163163011">
