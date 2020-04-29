@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8bee115-2515-4125-b28a-38606cb2277b" name="Default Changelist" comment="add new logo nad text">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b8bee115-2515-4125-b28a-38606cb2277b" name="Default Changelist" comment="add new logo and text">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/docker-compose.yml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../complex" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588086638886</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add new logo and text">
+      <created>1588086833159</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588086833159</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,7 +160,8 @@
     <MESSAGE value="refactoring code &#10;https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11437154#questions" />
     <MESSAGE value="add new was keys" />
     <MESSAGE value="add new logo nad text" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new logo nad text" />
+    <MESSAGE value="add new logo and text" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new logo and text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="865" y="229" key="#Docker" timestamp="1588062068454">
@@ -173,18 +180,18 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1044" y="450" key="DockerComposeFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588062098585" />
-    <state x="1277" y="334" key="FileChooserDialogImpl" timestamp="1588062097384">
+    <state x="1277" y="334" key="FileChooserDialogImpl" timestamp="1588144753253">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1277" y="334" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588062097384" />
+    <state x="1277" y="334" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1588144753253" />
     <state x="834" y="180" width="998" height="708" key="SettingsEditor" timestamp="1588059522633">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="834" y="180" width="998" height="708" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1588059522633" />
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1588086644997">
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2" timestamp="1588086839166">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588086644997" />
+    <state x="1101" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1588086839166" />
     <state x="1217" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1588061322433">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

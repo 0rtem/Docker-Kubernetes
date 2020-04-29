@@ -1,0 +1,25 @@
+language: generic
+# super user permisions
+sudo: required
+
+#env on the travis
+services:
+  - docker
+#build step
+before_install:
+  - docker build -t 0rtem/docker-react -f Dockerfile.dev .
+
+script:
+  - docker run -e CI=true 0rtem/docker-react npm run test
+
+deploy:
+  provider: elasticbeanstalk
+  region: "eu-central-1"
+  app: "docker-react"
+  env: "DockerReact-env"
+  bucket_name: "elasticbeanstalk-eu-central-1-597270167364"
+  bucket_path: "docker-react"
+  on:
+    branch: master
+  access_key_id: "$AWS_ACCESS_KEY_ARTEM"
+  secret_access_key: "$AWS_SECRET_KEY_ARTEM"
